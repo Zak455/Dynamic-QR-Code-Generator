@@ -8,18 +8,19 @@ The QR Code Generator is a web-based tool that allows users to create QR codes q
 - Option to reset the input and QR code.
 - Download QR code in JPG, PNG, or SVG formats.
 - Responsive design for seamless usage on various devices.
-- Whether you need QR codes for websites, contact information, or any other use case, this tool simplifies the process. Feel free to fork and customize this project to meet your specific needs.
+
+Whether you need QR codes for websites, contact information, or any other use case, this tool simplifies the process. Feel free to fork and customize this project to meet your specific needs.
 
 # Key Features:
-Create QR codes from text or URLs.
-Download QR codes in multiple formats.
-Responsive design for mobile and desktop.
-Error handling and user-friendly interface.
+- Create QR codes from text or URLs.
+- Download QR codes in multiple formats.
+- Responsive design for mobile and desktop.
+- Error handling and user-friendly interface.
 
 # Usage:
-Enter text or a URL in the input field.
-Click the "Generate QR Code" button or press Enter.
-Download the generated QR code in your preferred format.
+1. Enter text or a URL in the input field.
+2. Click the "Generate QR Code" button or press Enter.
+3. Download the generated QR code in your preferred format.
 
 # Contributions:
 Contributions and feedback are welcome! If you'd like to enhance this QR Code Generator or report issues, please open a GitHub issue or submit a pull request.

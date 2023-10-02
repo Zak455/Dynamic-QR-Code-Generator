@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" type="x-icon" href="qrcode.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="logo">
+            <img src="FDK GRAPHICS WHITE.png" alt="FDK GRAPHICS">
+        </div>
+        <h1>QR Code Generator</h1>
+        <input type="text" id="inputData" placeholder="Enter text or URL">
+        <button id="generateQR">Generate QR Code</button>
+        <div id="qrcode"></div>
+        <p id="error-message" class="error-message"></p>
+        <div class="button-container">
+            <!-- Initially hide the Reset and Download buttons -->
+            <button id="resetQR" style="display:none;">Reset</button>
+            <button id="downloadQR" style="display:none;">Download</button>
+        </div>
+    </div>
+
+    <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

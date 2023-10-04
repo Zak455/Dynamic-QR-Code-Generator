@@ -1,29 +1,30 @@
-# Dynamic-QR-Code-Generator
-Generate QR codes from text or URLs with this simple web tool. Easily create, customize, and download QR codes in various formats.
-The QR Code Generator is a web-based tool that allows users to create QR codes quickly and easily. This project provides a simple and user-friendly interface for generating QR codes from text or URLs. It is built using HTML, CSS, and JavaScript and comes with the following features:
+# Hangman-Game-JavaScript
 
-- Input field to enter text or URLs for QR code generation.
-- Generate QR Code button to create QR codes instantly.
-- Error handling to prompt users to enter valid data.
-- Option to reset the input and QR code.
-- Download QR code in JPG, PNG, or SVG formats.
-- Responsive design for seamless usage on various devices.
-
-Whether you need QR codes for websites, contact information, or any other use case, this tool simplifies the process. Feel free to fork and customize this project to meet your specific needs.
+This is a classic Hangman game implemented using HTML, CSS, and JavaScript. Challenge your word-guessing skills while enjoying a visually appealing and responsive user interface. Play alone or with friends and see who can guess the word correctly before the hangman is fully drawn!
 
 # Key Features:
-- Create QR codes from text or URLs.
-- Download QR codes in multiple formats.
-- Responsive design for mobile and desktop.
-- Error handling and user-friendly interface.
 
-# Usage:
-1. Enter text or a URL in the input field.
-2. Click the "Generate QR Code" button or press Enter.
-3. Download the generated QR code in your preferred format.
+- Random word selection from a diverse word list.
+- Interactive keyboard for letter selection.
+- Real-time feedback on correct and incorrect guesses.
+- Engaging hangman image progression.
+- Victory and game over modals with word reveal.
+- Responsive design for both desktop and mobile devices.
 
-# Contributions:
-Contributions and feedback are welcome! If you'd like to enhance this QR Code Generator or report issues, please open a GitHub issue or submit a pull request.
+Feel free to explore, fork, and contribute to this project. Have fun guessing words and customizing the game to your liking!
+
+# Getting Started:
+
+Clone the repository.
+Open the index.html file in your web browser to start playing.
+
+# Contributing:
+
+Contributions are welcome! Whether you want to improve the game, add new features, or fix bugs, your contributions will help make this Hangman game even better. Please follow our Contributing Guidelines for more details.
 
 # License:
 Creative Commons License
+## Demo
+
+Insert gif or link to demo
+
